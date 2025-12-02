@@ -402,31 +402,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🗺️ Roadmap
-
-### Version 1.1 (Q2 2024)
-- [ ] Payment gateway integration (Stripe, PayPal)
-- [ ] Push notifications
-- [ ] In-app chat support
-- [ ] Product reviews and ratings
-- [ ] Wishlist sharing
-
-### Version 1.2 (Q3 2024)
-- [ ] Delivery personnel mobile app
-- [ ] Advanced analytics dashboard
-- [ ] Multi-currency support
-- [ ] Augmented Reality carpet preview
-- [ ] Social media integration
-
-### Version 2.0 (Q4 2024)
-- [ ] Web application (Customer & Admin)
-- [ ] AI-powered product recommendations
-- [ ] Voice search
-- [ ] Blockchain-based authenticity certificates
-- [ ] Virtual showroom
-
----
-
 ## 📚 Additional Resources
 
 ### Learning Resources
