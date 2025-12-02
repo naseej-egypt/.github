@@ -27,7 +27,7 @@ Our platform consists of three interconnected applications:
 
 | Component | Technology | Purpose | Repository |
 |-----------|-----------|---------|------------|
-| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](./naseej-user-app) |
+| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](../naseej-user-app) |
 | **Admin Panel** | Flutter | Business management dashboard | [naseej-admin-app](./naseej-admin-app) |
 | **Backend API** | PHP | RESTful API service | [naseej-backend](./naseej-backend-php) |
 
