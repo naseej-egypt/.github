@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Naseej Logo](https://via.placeholder.com/200x200/8B4513/FFFFFF?text=Naseej)
+![Naseej Logo]([https://via.placeholder.com/200x200/8B4513/FFFFFF?text=Naseej](https://github.com/naseej-egypt/naseej-user-app/blob/main/assets/images/icon1_1.png))
 
 **Preserving Egyptian Heritage Through Technology**
 
@@ -27,9 +27,9 @@ Our platform consists of three interconnected applications:
 
 | Component | Technology | Purpose | Repository |
 |-----------|-----------|---------|------------|
-| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](./naseej-app) |
+| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](./naseej-user-app) |
 | **Admin Panel** | Flutter | Business management dashboard | [naseej-admin-app](./naseej-admin-app) |
-| **Backend API** | PHP | RESTful API service | [naseej-backend](./naseej-backend) |
+| **Backend API** | PHP | RESTful API service | [naseej-backend](./naseej-backend-php) |
 
 ---
 
@@ -245,13 +245,6 @@ Authorization: Bearer {your_jwt_token}
 }
 ```
 
-### Quick Links
-
-- [API Endpoints Reference](./naseej-backend/README.md#api-documentation)
-- [Customer App Features](./naseej-app/README.md#features)
-- [Admin Panel Guide](./naseej-admin-app/README.md#features)
-- [Database Schema](./naseej-backend/database/schema.sql)
-
 ---
 
 ## 🎨 Features Overview
@@ -442,12 +435,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PHP Documentation](https://www.php.net/docs.php)
 - [RESTful API Design](https://restfulapi.net/)
 
-### Related Projects
-- [Egyptian Heritage Apps](https://github.com/topics/egyptian-heritage)
-- [E-Commerce Solutions](https://github.com/topics/ecommerce)
-- [Flutter E-Commerce](https://github.com/topics/flutter-ecommerce)
 
----
 
 <div align="center">
 
