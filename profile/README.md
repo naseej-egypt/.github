@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Naseej Logo]([https://via.placeholder.com/200x200/8B4513/FFFFFF?text=Naseej](https://github.com/naseej-egypt/naseej-user-app/blob/main/assets/images/icon1_1.png))
+![Naseej Logo](https://github.com/naseej-egypt/naseej-user-app/blob/main/assets/images/icon1_1.png)
 
 **Preserving Egyptian Heritage Through Technology**
 
