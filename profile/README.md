@@ -10,7 +10,8 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?logo=php)](https://php.net)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yasser.naseej)
+[![Google Play](https://img.shields.io/badge/Google_Play-Get_it_on-34A853?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yasser.naseej)
+[![Web App](https://img.shields.io/badge/Web_App-02569B?style=flat&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/)
 
 [Features](#features) • [Architecture](#architecture) • [Getting Started](#getting-started) • [Documentation](#documentation) • [Contributing](#contributing)
 
@@ -22,11 +23,9 @@
 
 Naseej is a comprehensive, full-stack e-commerce ecosystem dedicated to authentic Egyptian handmade carpets. Built with modern technologies and a focus on cultural authenticity, this platform connects three generations of Egyptian carpet craftsmanship with customers worldwide.
 
-### 📲 Download the Customer App
+### 📲 Download & Access the Customer App
 
-<a href="https://play.google.com/store/apps/details?id=com.yasser.naseej">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80">
-</a>
+[![Google Play](https://img.shields.io/badge/Google_Play-Get_it_on-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yasser.naseej) [![Web App](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/)
 
 ### Platform Components
 
@@ -34,7 +33,7 @@ Our platform consists of three interconnected applications:
 
 | Component | Technology | Purpose | Repository |
 |-----------|-----------|---------|------------|
-| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](https://github.com/naseej-egypt/naseej-user-app) · [▶ Play Store](https://play.google.com/store/apps/details?id=com.yasser.naseej) |
+| **Customer App** | Flutter | Mobile shopping experience | [naseej-app](https://github.com/naseej-egypt/naseej-user-app) · [▶ Play Store](https://play.google.com/store/apps/details?id=com.yasser.naseej) · [🌐 Web App](https://naseej-460f5.web.app/) |
 | **Admin Panel** | Flutter | Business management dashboard | [naseej-admin-app](https://github.com/naseej-egypt/naseej-admin-app) |
 | **Backend API** | PHP | RESTful API service | [naseej-backend](https://github.com/naseej-egypt/naseej-backend-php) |
 
@@ -423,9 +422,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for preserving Egyptian heritage through technology**
 
-<a href="https://play.google.com/store/apps/details?id=com.yasser.naseej">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="70">
-</a>
+[![Google Play](https://img.shields.io/badge/Google_Play-Get_it_on-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yasser.naseej) [![Web App](https://img.shields.io/badge/Web_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naseej-460f5.web.app/)
 
 [⬆ Back to Top](#naseej---egyptian-handmade-carpets-e-commerce-platform)
 
